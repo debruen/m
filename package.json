@@ -1,21 +1,19 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "m",
+  "version": "0.0.0",
+  "description": "manager",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/debruen/m",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "manager",
+    "files",
+    "homepage"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Florian de Brün",
+  "license": "",
   "devDependencies": {
     "electron": "^18.2.3"
   }
